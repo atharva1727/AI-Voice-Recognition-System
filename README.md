@@ -49,7 +49,7 @@ The pipeline follows a strict **5-stage sequential architecture** where each sta
 
 ## 🛠️ Tech Stack
 
-![Tech Stack](techstack.png)
+![Tech Stack](https://github.com/atharva1727/AI-Voice-Recognition-System/blob/main/techstack.png)
 
 ### Core Dependencies
 
