@@ -33,7 +33,7 @@ This project was built as part of an applied AI curriculum and demonstrates end-
 
 ## ⚙️ System Architecture
 
-![System Architecture](architecture.png)
+![System Architecture](https://github.com/atharva1727/AI-Voice-Recognition-System/blob/main/architecture.png)
 
 The pipeline follows a strict **5-stage sequential architecture** where each stage produces a cleaner, more structured representation of the audio signal — culminating in a high-confidence text transcript.
 
