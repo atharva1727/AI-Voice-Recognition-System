@@ -4,7 +4,7 @@ Real-time AI-based Voice Recognition System using Python, Speech Recognition, Au
 
 <div align="center">
 
-![Voice Recognition System Banner](banner.png)
+![Voice Recognition System Banner](https://github.com/atharva1727/AI-Voice-Recognition-System/blob/main/banner%20(1).png)
 
 <br/>
 
